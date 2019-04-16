@@ -12,6 +12,7 @@ find_package(catkin REQUIRED COMPONENTS
   roscpp
   rospy
   sensor_msgs
+  hebiros
 )
 
 ## System dependencies are found with CMake's conventions
